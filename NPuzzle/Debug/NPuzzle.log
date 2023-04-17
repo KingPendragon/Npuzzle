@@ -1,0 +1,164 @@
+﻿  AStarSearch.cpp
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\Node.h(97,32): error C2039: 'function': is not a member of 'std'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\Node.h(63): message : see declaration of 'std'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\Node.h(97,40): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\Node.h(97,40): error C2143: syntax error: missing ',' before '<'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\AStarSearch.cpp(38,7): error C2039: 'function': is not a member of 'std'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\SearchMethod.h(23): message : see declaration of 'std'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\AStarSearch.cpp(38,15): error C2065: 'function': undeclared identifier
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\AStarSearch.cpp(38,27): error C2059: syntax error: ')'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\AStarSearch.cpp(39,2): error C2143: syntax error: missing ';' before '{'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\AStarSearch.cpp(41,33): error C2065: 's': undeclared identifier
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\AStarSearch.cpp(44,7): error C2039: 'function': is not a member of 'std'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\SearchMethod.h(23): message : see declaration of 'std'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\AStarSearch.cpp(44,15): error C2065: 'function': undeclared identifier
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\AStarSearch.cpp(44,26): error C2059: syntax error: ')'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\AStarSearch.cpp(45,2): error C2143: syntax error: missing ';' before '{'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\AStarSearch.cpp(46,25): error C2065: 'n': undeclared identifier
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\AStarSearch.cpp(47,24): error C2065: 'n': undeclared identifier
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\AStarSearch.cpp(48,44): error C2065: 'n': undeclared identifier
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\AStarSearch.cpp(63,26): error C2065: 'candidateCheck': undeclared identifier
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\AStarSearch.cpp(63,42): error C2065: 'addCandidate': undeclared identifier
+  BreadthFirstSearch.cpp
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\Node.h(97,32): error C2039: 'function': is not a member of 'std'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\Node.h(63): message : see declaration of 'std'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\Node.h(97,40): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\Node.h(97,40): error C2143: syntax error: missing ',' before '<'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\BreadthFirstSearch.cpp(43,7): error C2039: 'function': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\queue(22): message : see declaration of 'std'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\BreadthFirstSearch.cpp(43,15): error C2065: 'function': undeclared identifier
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\BreadthFirstSearch.cpp(43,27): error C2059: syntax error: ')'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\BreadthFirstSearch.cpp(43,52): error C2039: 'bind': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\queue(22): message : see declaration of 'std'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\BreadthFirstSearch.cpp(43,99): error C3083: 'placeholders': the symbol to the left of a '::' must be a type
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\BreadthFirstSearch.cpp(43,113): error C2039: '_1': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\queue(22): message : see declaration of 'std'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\BreadthFirstSearch.cpp(44,7): error C2039: 'function': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\queue(22): message : see declaration of 'std'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\BreadthFirstSearch.cpp(44,15): error C2065: 'function': undeclared identifier
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\BreadthFirstSearch.cpp(44,26): error C2059: syntax error: ')'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\BreadthFirstSearch.cpp(45,2): error C2143: syntax error: missing ';' before '{'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\BreadthFirstSearch.cpp(46,25): error C2065: 'n': undeclared identifier
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\BreadthFirstSearch.cpp(47,20): error C2065: 'n': undeclared identifier
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\BreadthFirstSearch.cpp(48,44): error C2065: 'n': undeclared identifier
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\BreadthFirstSearch.cpp(60,22): error C2065: 'candidateCheck': undeclared identifier
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\BreadthFirstSearch.cpp(60,38): error C2065: 'addCandidate': undeclared identifier
+  DepthFirstSearch.cpp
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\Node.h(97,32): error C2039: 'function': is not a member of 'std'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\Node.h(63): message : see declaration of 'std'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\Node.h(97,40): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\Node.h(97,40): error C2143: syntax error: missing ',' before '<'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\DepthFirstSearch.cpp(44,7): error C2039: 'function': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\stack(20): message : see declaration of 'std'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\DepthFirstSearch.cpp(44,15): error C2065: 'function': undeclared identifier
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\DepthFirstSearch.cpp(44,27): error C2059: syntax error: ')'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\DepthFirstSearch.cpp(44,52): error C2039: 'bind': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\stack(20): message : see declaration of 'std'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\DepthFirstSearch.cpp(44,99): error C3083: 'placeholders': the symbol to the left of a '::' must be a type
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\DepthFirstSearch.cpp(44,113): error C2039: '_1': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\stack(20): message : see declaration of 'std'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\DepthFirstSearch.cpp(45,7): error C2039: 'function': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\stack(20): message : see declaration of 'std'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\DepthFirstSearch.cpp(45,15): error C2065: 'function': undeclared identifier
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\DepthFirstSearch.cpp(45,26): error C2059: syntax error: ')'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\DepthFirstSearch.cpp(46,2): error C2143: syntax error: missing ';' before '{'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\DepthFirstSearch.cpp(47,25): error C2065: 'n': undeclared identifier
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\DepthFirstSearch.cpp(48,20): error C2065: 'n': undeclared identifier
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\DepthFirstSearch.cpp(49,44): error C2065: 'n': undeclared identifier
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\DepthFirstSearch.cpp(63,22): error C2065: 'candidateCheck': undeclared identifier
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\DepthFirstSearch.cpp(63,38): error C2065: 'addCandidate': undeclared identifier
+  GreedySearch.cpp
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\Node.h(97,32): error C2039: 'function': is not a member of 'std'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\Node.h(63): message : see declaration of 'std'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\Node.h(97,40): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\Node.h(97,40): error C2143: syntax error: missing ',' before '<'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\GreedySearch.cpp(36,7): error C2039: 'function': is not a member of 'std'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\SearchMethod.h(23): message : see declaration of 'std'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\GreedySearch.cpp(36,15): error C2065: 'function': undeclared identifier
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\GreedySearch.cpp(36,27): error C2059: syntax error: ')'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\GreedySearch.cpp(37,2): error C2143: syntax error: missing ';' before '{'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\GreedySearch.cpp(38,33): error C2065: 's': undeclared identifier
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\GreedySearch.cpp(41,7): error C2039: 'function': is not a member of 'std'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\SearchMethod.h(23): message : see declaration of 'std'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\GreedySearch.cpp(41,15): error C2065: 'function': undeclared identifier
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\GreedySearch.cpp(41,26): error C2059: syntax error: ')'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\GreedySearch.cpp(42,2): error C2143: syntax error: missing ';' before '{'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\GreedySearch.cpp(43,25): error C2065: 'n': undeclared identifier
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\GreedySearch.cpp(44,24): error C2065: 'n': undeclared identifier
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\GreedySearch.cpp(45,44): error C2065: 'n': undeclared identifier
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\GreedySearch.cpp(59,26): error C2065: 'candidateCheck': undeclared identifier
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\GreedySearch.cpp(59,42): error C2065: 'addCandidate': undeclared identifier
+  IdAStarSearch.cpp
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\Node.h(97,32): error C2039: 'function': is not a member of 'std'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\Node.h(63): message : see declaration of 'std'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\Node.h(97,40): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\Node.h(97,40): error C2143: syntax error: missing ',' before '<'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\IdAStarSearch.cpp(46,7): error C2039: 'function': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\stack(20): message : see declaration of 'std'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\IdAStarSearch.cpp(46,15): error C2065: 'function': undeclared identifier
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\IdAStarSearch.cpp(46,26): error C2059: syntax error: ')'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\IdAStarSearch.cpp(47,2): error C2143: syntax error: missing ';' before '{'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\IdAStarSearch.cpp(48,25): error C2065: 'n': undeclared identifier
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\IdAStarSearch.cpp(49,24): error C2065: 'n': undeclared identifier
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\IdAStarSearch.cpp(50,44): error C2065: 'n': undeclared identifier
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\IdAStarSearch.cpp(79,9): error C2039: 'function': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\stack(20): message : see declaration of 'std'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\IdAStarSearch.cpp(79,17): error C2065: 'function': undeclared identifier
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\IdAStarSearch.cpp(79,29): error C2059: syntax error: ')'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\IdAStarSearch.cpp(79,54): error C2039: 'bind': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\stack(20): message : see declaration of 'std'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\IdAStarSearch.cpp(79,101): error C3083: 'placeholders': the symbol to the left of a '::' must be a type
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\IdAStarSearch.cpp(79,115): error C2039: '_1': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\stack(20): message : see declaration of 'std'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\IdAStarSearch.cpp(80,27): error C2065: 'candidateCheck': undeclared identifier
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\IdAStarSearch.cpp(80,43): error C2065: 'addCandidate': undeclared identifier
+  IdDepthFirstSearch.cpp
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\Node.h(97,32): error C2039: 'function': is not a member of 'std'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\Node.h(63): message : see declaration of 'std'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\Node.h(97,40): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\Node.h(97,40): error C2143: syntax error: missing ',' before '<'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\IdDepthFirstSearch.cpp(44,7): error C2039: 'function': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\stack(20): message : see declaration of 'std'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\IdDepthFirstSearch.cpp(44,15): error C2065: 'function': undeclared identifier
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\IdDepthFirstSearch.cpp(44,26): error C2059: syntax error: ')'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\IdDepthFirstSearch.cpp(45,2): error C2143: syntax error: missing ';' before '{'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\IdDepthFirstSearch.cpp(46,25): error C2065: 'n': undeclared identifier
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\IdDepthFirstSearch.cpp(47,24): error C2065: 'n': undeclared identifier
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\IdDepthFirstSearch.cpp(48,44): error C2065: 'n': undeclared identifier
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\IdDepthFirstSearch.cpp(58,8): error C2039: 'function': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\stack(20): message : see declaration of 'std'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\IdDepthFirstSearch.cpp(58,16): error C2065: 'function': undeclared identifier
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\IdDepthFirstSearch.cpp(58,28): error C2059: syntax error: ')'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\IdDepthFirstSearch.cpp(58,53): error C2039: 'bind': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\stack(20): message : see declaration of 'std'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\IdDepthFirstSearch.cpp(58,100): error C3083: 'placeholders': the symbol to the left of a '::' must be a type
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\IdDepthFirstSearch.cpp(58,114): error C2039: '_1': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\stack(20): message : see declaration of 'std'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\IdDepthFirstSearch.cpp(73,26): error C2065: 'candidateCheck': undeclared identifier
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\IdDepthFirstSearch.cpp(73,42): error C2065: 'addCandidate': undeclared identifier
+  Main.cpp
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\Node.h(97,32): error C2039: 'function': is not a member of 'std'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\Node.h(63): message : see declaration of 'std'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\Node.h(97,40): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\Node.h(97,40): error C2143: syntax error: missing ',' before '<'
+  Node.cpp
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\Node.h(97,32): error C2039: 'function': is not a member of 'std'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\Node.h(63): message : see declaration of 'std'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\Node.h(97,40): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\Node.h(97,40): error C2143: syntax error: missing ',' before '<'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\Node.cpp(44,37): error C2039: 'function': is not a member of 'std'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\SearchMethod.h(23): message : see declaration of 'std'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\Node.cpp(44,45): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\Node.cpp(44,45): error C2143: syntax error: missing ',' before '<'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\Node.cpp(85,8): error C3861: 'exclude': identifier not found
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\Node.cpp(94,4): error C3861: 'accept': identifier not found
+  Puzzle.cpp
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\Node.h(97,32): error C2039: 'function': is not a member of 'std'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\Node.h(63): message : see declaration of 'std'
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\Node.h(97,40): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\Node.h(97,40): error C2143: syntax error: missing ',' before '<'
+  Random.cpp
+  String.cpp
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\String.cpp(11,15): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Dimitrija\source\repos\NPuzzle\NPuzzle\String.cpp(42,15): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
